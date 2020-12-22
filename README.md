@@ -1,5 +1,5 @@
-# Hi 👋, I'm Tarun Kumar Das
-## Full Stack Web Developer
+# <div align="center">Hi 👋, I'm Tarun Kumar Das</div>
+## <div align="center">Full Stack Web Developer</div>
 
 
 <!--
