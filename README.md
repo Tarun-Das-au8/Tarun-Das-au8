@@ -11,6 +11,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![https://github.com/Tarun-Das-au8][http://i.imgur.com/0o48UoR.png]][http://www.github.com/carlsednaoui]
+[![github][http://i.imgur.com/0o48UoR.png]][http://www.github.com/carlsednaoui/https://github.com/Tarun-Das-au8]
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Tarun-Das-au8)
