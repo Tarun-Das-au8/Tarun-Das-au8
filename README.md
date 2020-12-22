@@ -12,4 +12,6 @@
 - ⚡ Fun fact: ...
 -->
 
+[![github](https://github.com/Tarun-Das-au8)][1]
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Tarun-Das-au8)
