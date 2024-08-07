@@ -20,6 +20,9 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer" > <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="nextjs" width="40" height="40" /> <a/>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" ><img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="tailwind-css" width="40" height="40" /></a>
+    <a href="https://sass-lang.com/" target="_blank" rel="noreferrer" ><img src="https://www.svgrepo.com/show/374068/scss.svg" alt="scss" width="40" height="40" /></a>
+    <a href="https://graphql.org/" target="_blank" rel="noreferrer" ><img src="https://static1.s123-cdn-static-a.com/uploads/4430217/800_627958487663f.png" alt="graphql" width="40" height="40" /></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
