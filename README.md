@@ -1,5 +1,6 @@
 # <div align="center">Hi 👋, I'm Tarun Kumar Das</div>
 <h3 align="center">Frontend Developer</h3>
+<div align="left"> <img src="https://komarev.com/ghpvc/?username=Tarun-Das-au8&label=Profile%20views&color=0e75b6&style=flat" alt="Tarun-Das-au8" /> </div>
 
 - 👨‍💻 Here is my Portfolio [https://my-portfolio-tarun.netlify.app/](https://my-portfolio-tarun.netlify.app/) 
 - 📫 How to reach me **imtarun79@gmail.com**
