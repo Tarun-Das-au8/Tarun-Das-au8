@@ -19,7 +19,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" ><img src="https://cdn.iconscout.com/icon/free/png-256/free-typescript-1174965.png?f=webp&w=256" alt="typescript" width="40" height="40 /><a/>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer" > <img src="https://seekvectors.com/files/download/Nextjs%20Logo.png" alt="nextjs" width="40" height="40" /> <a/>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer" > <img src="https://media.licdn.com/dms/image/C5622AQEaSzZNrNFgUQ/feedshare-shrink_800/0/1678383920919?e=2147483647&v=beta&t=skIEHMDr9qucS8R9k_6RwBP1f4HH1Y3WzeDu3CErvpg" alt="nextjs" width="40" height="40" /> <a/>
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" ><img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="tailwind-css" width="40" height="40" /></a>
     <a href="https://sass-lang.com/" target="_blank" rel="noreferrer" ><img src="https://www.svgrepo.com/show/374068/scss.svg" alt="scss" width="40" height="40" /></a>
     <a href="https://graphql.org/" target="_blank" rel="noreferrer" ><img src="https://static1.s123-cdn-static-a.com/uploads/4430217/800_627958487663f.png" alt="graphql" width="40" height="40" /></a>
