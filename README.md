@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tarun-Das-au8&label=Profile%20views&color=0e75b6&style=flat" alt="Tarun-Das-au8" /></p>
 
 
-- 👨‍💻 Here is my Portfolio [https://my-portfolio-tarun.netlify.app/](https://my-portfolio-tarun.netlify.app/) 
+- 👨‍💻 Here is my Portfolio [https://my-portfolio-in-next.netlify.app/](https://my-portfolio-in-next.netlify.app/) 
 - 📫 How to reach me **imtarun79@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
