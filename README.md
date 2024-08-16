@@ -4,7 +4,7 @@
 
 
 - 👨‍💻 Here is my Portfolio **[https://my-portfolio-in-next.netlify.app/](https://my-portfolio-in-next.netlify.app/)**
-- 📫 How to reach me **imtarun79@gmail.com**
+- 📫 How to reach me **imtarun79@gmail.com** 
   
 
 <h3 align="left">Connect with me:</h3>
